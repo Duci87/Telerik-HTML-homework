@@ -1,2 +1,0 @@
-# Telerik-HTML-homework
-telerik
